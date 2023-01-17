@@ -1,3 +1,6 @@
+### Construct and execute SELECT operator with WHERE, GROUP BY and ORDER BY
+<pre>
+
 select
     ar.name "Artist Name",
     count(*) "Number of Songs"
@@ -9,3 +12,5 @@ group by
     ar.name
 order by
     count(*) desc
+    
+</pre>
