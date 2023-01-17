@@ -1,7 +1,7 @@
 ### Database model
 
-1. List all artists for each record label sorted by artist name. <br/>
-![1 results](../maindb_model.png)
+1. Database model <br/>
+![1 results](../main/db_model.png)
 
 
 <pre>
@@ -140,17 +140,5 @@ INSERT INTO song VALUES(35,13,'Good Morning Good Morning', 2.6833);
 INSERT INTO song VALUES(36,13,'Sgt. Pepper''s Lonely Hearts Club Band (Reprise)', 1.3166);
 INSERT INTO song VALUES(37,13,'A Day in the Life', 5.65);
 
-show tables;
+
 </pre>
-
-### Usage Notes for the Database Exercises
-
-* There is no particular order to these SQL query exercises.  
-* Some are more difficult than others.
-* Some will require knowing how to create sub-selects with temp tables.
-* All will require knowledge of how to join the tables using the PK and FK.  
-* Knowledge of both inner joins and outer joins is required.
-* The solution SQL queries to the database exercises are located inside this repository.
-* The correct query responses are provided below.
-</pre>
-
