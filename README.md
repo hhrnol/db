@@ -4,7 +4,7 @@
 ![1 results](../maindb_model.png)
 
 
-
+<pre>
 
 CREATE DATABASE IF NOT EXISTS music DEFAULT CHARACTER SET utf8;
 use music;
@@ -152,5 +152,5 @@ show tables;
 * Knowledge of both inner joins and outer joins is required.
 * The solution SQL queries to the database exercises are located inside this repository.
 * The correct query responses are provided below.
-
+</pre>
 
