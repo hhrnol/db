@@ -56,3 +56,4 @@ theater> db.theater.find()
     }
   }
 ]
+</pre>
